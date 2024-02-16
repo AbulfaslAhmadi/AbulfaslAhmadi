@@ -1,4 +1,4 @@
-# Hello World! 👋🌍
+# Hello World!
 I'm a 17-year-old student based in Leipzig, with a passion for exploring the world of code. I'm currently focused on completing my A-levels with majors in Maths and Computer Science. 
 
 ### 🛠Skills
@@ -38,4 +38,4 @@ I'm a 17-year-old student based in Leipzig, with a passion for exploring the wor
 <img src="https://img.shields.io/badge/Authentication,%20Authorization%20and%20Security-282C34?" alt="" title="" height="25" />
 </span>
 
-Let's connect and explore the tech world together! 🚀💻
+Let's connect and explore the tech world together! 🚀
