@@ -15,13 +15,13 @@ Abulfasl Ahmadi is a 17-year-old student based in Leipzig, with a passion for ex
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/node.js-282C34?logo=nodedotjs" alt="node JS" title="Node Java Script" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/npm-282C34?logo=npm" alt="npm" title="node package manager" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/mongodb-282C34?logo=mongodb" alt="MongoDB" title="Mongo data base" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/express.js-282C34?logo=express&logoColor=F7DF1E" alt="Express" title="express.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/node.js-282C34?logo=nodedotjs" alt="node JS" title="Node Java Script" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/npm-282C34?logo=npm" alt="npm" title="node package manager" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/mySQL-282C34?logo=mysql" alt="MySQL" title="My SQL" height="25" />
 &nbsp;
