@@ -15,7 +15,7 @@ Abulfasl Ahmadi is a 17-year-old student based in Leipzig, with a passion for ex
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/mongodb-282C34?logo=mongodb" alt="MongoDB" title="Mongo data base" height="25" />
+<img src="https://img.shields.io/badge/mongodb-282C34?logo=mongo DB" alt="MongoDB" title="Mongo data base" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/express-282C34?logo=express&logoColor=F7DF1E" alt="Express" title="express.js" height="25" />
 &nbsp;
