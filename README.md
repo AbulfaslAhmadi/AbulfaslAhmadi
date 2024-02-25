@@ -37,6 +37,8 @@ Abulfasl Ahmadi is a 17-year-old student based in Leipzig, with a passion for ex
 <span>
 <img src="https://img.shields.io/badge/python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/docker-282C34?logo=docker" alt="docker" title="docker" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
