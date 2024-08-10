@@ -3,7 +3,7 @@ Abulfasl Ahmadi is a 17-year-old student based in Leipzig, with a passion for ex
 
 &nbsp;
 
-### 🛠Skills
+### 🛠Skills & tools
 <span>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;
