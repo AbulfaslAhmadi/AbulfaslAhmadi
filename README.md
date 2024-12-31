@@ -1,5 +1,5 @@
 # WhoAmI
-Abulfasl Ahmadi is a 17-year-old student based in Leipzig, with a passion for exploring the world of code. He is currently focused on completing his A-levels with majors in Maths and Computer Science. 
+Abulfasl Ahmadi is a 18-year-old student based in Leipzig, with a passion for exploring the world of code. He is currently focused on completing his A-levels with majors in Maths and Computer Science. 
 
 &nbsp;
 
@@ -29,6 +29,10 @@ Abulfasl Ahmadi is a 17-year-old student based in Leipzig, with a passion for ex
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/xcode-282C34?logo=xcode" alt="X Code logo" title="X Code Code" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/docker-282C34?logo=docker" alt="docker" title="docker" height="25" />
+&nbsp;
 </span>
 
 &nbsp;
@@ -37,7 +41,7 @@ Abulfasl Ahmadi is a 17-year-old student based in Leipzig, with a passion for ex
 <span>
 <img src="https://img.shields.io/badge/python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/docker-282C34?logo=docker" alt="docker" title="docker" height="25" />
+<img src="https://img.shields.io/badge/swift-282C34?logo=swift" alt="Swift logo" title="Swift" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="25" />
 &nbsp;
