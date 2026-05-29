@@ -1,54 +1,38 @@
 # WhoAmI
-Abulfasl Ahmadi is a 18-year-old student based in Leipzig, with a passion for exploring the world of code. He is currently focused on completing his A-levels with majors in Maths and Computer Science. 
-
-&nbsp;
-
-### 🛠Skills & tools
+Abulfasl Ahmadi is a 19-year-old Computer Science student (B.Sc.) based in Leipzig, working in medical informatics research. Passionate about building things at the intersection of software and healthcare.
+ 
+# Skills & Tools
 <span>
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/mongo%20DB-282C34?logo=mongodb" alt="MongoDB" title="Mongo data base" height="25" />
+<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=ED8B00" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/express-282C34?logo=express&logoColor=F7DF1E" alt="Express" title="express.js" height="25" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/node-282C34?logo=nodedotjs" alt="node JS" title="Node Java Script" height="25" />
+<img src="https://img.shields.io/badge/Express-282C34?logo=express" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/npm-282C34?logo=npm" alt="npm" title="node package manager" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/mySQL-282C34?logo=mysql" alt="MySQL" title="My SQL" height="25" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/xcode-282C34?logo=xcode" alt="X Code logo" title="X Code Code" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/docker-282C34?logo=docker" alt="docker" title="docker" height="25" />
-&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25" />
 </span>
-
-&nbsp;
-
-### 💪Started to learn
+ 
+# Currently Learning
 <span>
-<img src="https://img.shields.io/badge/python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
+<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/swift-282C34?logo=swift" alt="Swift logo" title="Swift" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Authentication,%20Authorization%20and%20Security-282C34?" alt="" title="" height="25" />
+<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" height="25" />
 </span>
-
-&nbsp;
-&nbsp;
-
-Let's connect and explore the tech world together! 🚀
