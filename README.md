@@ -1,6 +1,6 @@
-## Hi, I'm Abulfasl
+## Who Am I?
 
-I'm currently pursuing a B.Sc. in Computer Science at Leipzig University and work as a student research assistant in medical informatics. I build things at the intersection of software and healthcare.
+Hi, I'm Abulfasl and currently pursuing a B.Sc. in Computer Science at Leipzig University & work as a student research assistant in medical informatics. I build things at the intersection of software and healthcare.
 
 <!-- To add or remove an icon, edit the i= list. Available ids: https://github.com/tandpfun/skill-icons#icons-list -->
 
